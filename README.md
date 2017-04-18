@@ -1,2 +1,2 @@
-# optimal-tree-shaking
-Baseline and test optimizations on build size
+# Optimize Angular Apps
+Baseline and test optimizations on building and running Angular applications.
